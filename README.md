@@ -33,15 +33,9 @@ entrei de paraquedas na área de tecnologia e estou amando. Em constante aprendi
   
 ## Tecnologias que tenho alguma experiência e estou estudando 💻
 
-<!--<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=compact&langs_count=7&theme=dark"/>   
- <img align="right" width="20%" src="https://github.com/Rhogger/rhogger/blob/main/images/Languages.gif"> -->
-- Java
-- C
-- HTML
-- CSS
-- MySQL
-- GIT
-  
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=compact&langs_count=7&theme=dark"/>   
+<img align="right" height="10%" src="https://github.com/Rhogger/rhogger/blob/main/images/Languages.gif">
+<br><br><br><br><br><br><br><br>
 </div>
   
 <hr>
@@ -59,9 +53,11 @@ entrei de paraquedas na área de tecnologia e estou amando. Em constante aprendi
 
 ## Meus dados no Github
   
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rhogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center" height="100%">
+<img src="https://github-readme-stats.vercel.app/api?username=rhogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=compact&langs_count=7&theme=dark"/>
+  ![Snake animation](https://github.com/Rhogger/rhogger/blob/output/github-contribution-grid-snake.svg)
+</div>
+  
 
-![Snake animation](https://github.com/Rhogger/rhogger/blob/output/github-contribution-grid-snake.svg)
  
