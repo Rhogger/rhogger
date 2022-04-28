@@ -29,28 +29,39 @@ entrei de paraquedas na área de tecnologia e estou amando. Em constante aprendi
 
 <hr>
 
-
+<div>
+  
 ## Tecnologias que tenho alguma experiência e estou estudando 💻
 
-<div>
-
-<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=compact&langs_count=7&theme=dark"/>  
-
-<div>
-<img align="center" width="10%" src="https://github.com/Rhogger/rhogger/blob/main/images/Languages.gif">
-</div>
+<!--<img align="left" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=compact&langs_count=7&theme=dark"/>   
+ <img align="right" width="20%" src="https://github.com/Rhogger/rhogger/blob/main/images/Languages.gif"> -->
+- Java
+- C
+- HTML
+- CSS
+- MySQL
+- GIT
   
 </div>
+  
+<hr>
+  
+## Sobre mim 👨🏻‍💻
 
+
+- Gosto de conhecer novas pessoas, ajudar em algo que eu sei, fazer networking;
+- Gosto de trabalhar em grupo;
+- Pretendo um dia me mudar do Brasil, talvez Canadá ou Bélgica, quem sabe;
+- Adoro Séries e Animes, em especial, One Piece;
+- Sou curioso e gosto bastante da área.
+
+<hr>
+
+## Meus dados no Github
   
-<div align="center">
-  <a href="https://github.com/rhogger">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rhogger&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  
-</div>
- 
-## Minhas Redes Sociais
-  
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=rhogger&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=compact&langs_count=7&theme=dark"/>
 
 ![Snake animation](https://github.com/Rhogger/rhogger/blob/output/github-contribution-grid-snake.svg)
  
