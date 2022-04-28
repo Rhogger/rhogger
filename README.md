@@ -4,7 +4,7 @@
   
 <hr>
   
-<a target="_blank" href="https://contate.me/RhoggerFS">
+<a href="https://contate.me/RhoggerFS" rel="nooper">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a> 
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/rhogger)](https://contate.me/RhoggerFS)
