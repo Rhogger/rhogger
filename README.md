@@ -193,12 +193,12 @@
 <h2 align="center">💬&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;💬</h2>
 <img align="left" width="220px" height="180px" src="./images/Contacts.gif" alt="woman in balcony">
 <br><br>
-<p align="center">
-  <a href="mailto:rhoggerrv@gmail.com" alt="gmail">
-    <img src="./images/buttons/email.svg" target="_blank">
+<p align="center" target="_blank">
+  <a href="mailto:rhoggerrv@gmail.com" alt="gmail" target="_blank">
+    <img src="./images/buttons/email.svg">
   </a> 
-  <a href="https://www.linkedin.com/in/rhogger-freitas-699594214/" alt="Linkedin">
-    <img src="./images/buttons/linkedin.svg" alt="linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/rhogger-freitas-699594214/" alt="Linkedin" target="_blank">
+    <img src="./images/buttons/linkedin.svg" alt="linkedin">
   </a>
   <a href="https://wa.me/5564999840431?text=Olá,%20vim%20pelo%20github.%20Gostaria%20de%20bater%20um%20papo%20contigo." alt="WhatsApp" target="_blank">
     <img src="./images/buttons/whatsapp.svg" alt="Whatsapp">
@@ -206,7 +206,7 @@
   <a href="https://www.instagram.com/rhogger._.fs/" alt="Instagram" target="_blank">
     <img src="./images/buttons/instagram.svg" alt="Instagram">
   </a>
-  <img src="./images/buttons/discord.svg" alt="discord">
+  <img src="./images/buttons/discord.svg" alt="discord" target="_blank">
 </p>
 <br><br><br>
 
@@ -220,6 +220,13 @@
     </a>
     </td>
   </tr>
+    <tr>
+    <td>
+    <a href="https://github.com/Rhogger/Projeto-Pokedex" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Projeto-Pokedex&theme=tokyonight&hide_border=true&cache_seconds=0">
+    </a>
+    </td>
+  </tr>
   <tr>
     <td>
     <a href="https://github.com/Rhogger/My-Gamer-Profile" target="_blank">
@@ -229,113 +236,64 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=rocketnotes&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Mentorship-Form" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Mentorship-Form&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=focustimer&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Event-Form" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Event-Form&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=imc-calculator&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Responsive-Page" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Responsive-Page&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=guessing-game&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/RocketCoffee" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=RocketCoffee&theme=tokyonight&hide_border=true&cache_seconds=0">
   </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-copa&theme=tokyonight&hide_border=true&cache_seconds=0">
-  </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-     <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive03&theme=tokyonight&hide_border=true&cache_seconds=0">
+     <a href="https://github.com/Rhogger/Custom-Hello-World" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Custom-Hello-World&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive02&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Calculator" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Calculator&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=responsive01&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Pratica-HTML-Semantico" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Pratica-HTML-Semantico&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/rhogger/" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=nlw-esports-explorer&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Cadastro-Cliente" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Cadastro-Cliente&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/desenvjonathan/what-i-watch" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=what-i-watch&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/form03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form03&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/form02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form02&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/form01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=form01&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/layout03" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout03&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/layout02" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout02&theme=tokyonight&hide_border=true&cache_seconds=0">
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-    <a href="https://github.com/desenvjonathan/layout01" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=desenvjonathan&repo=layout01&theme=tokyonight&hide_border=true&cache_seconds=0">
+    <a href="https://github.com/Rhogger/Exercicios-da-Faculdade" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rhogger&repo=Exercicios-da-Faculdade&theme=tokyonight&hide_border=true&cache_seconds=0">
     </a>
     </td>
   </tr>
@@ -344,16 +302,16 @@
 
 <h2 align="center">
 <details open>
-<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅ</i> &ensp;📈</summary>
+<summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=desenvjonathan&theme=tokyo-night&hide_border=true&cache_seconds=0">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rhogger&theme=tokyo-night&hide_border=true&cache_seconds=0">
 <br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desenvjonathan&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhogger&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=0">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=desenvjonathan&show_icons=true&custom_title=Jonathan's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=0">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=desenvjonathan&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=tokyonight&hide_border=true&cache_seconds=0">
 </div>
 </details>
 <br>
 <img src="./images/heart.gif" alt="coração" height="40px" width="40px" />
-<img src="https://img.shields.io/github/license/desenvjonathan/desenvjonathan?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="desenvjonathan repo license" height="40px" />
+<img src="https://img.shields.io/github/license/Rhogger/Rhogger?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="Rhogger repo license" height="40px" />
