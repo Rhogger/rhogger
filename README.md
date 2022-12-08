@@ -203,6 +203,7 @@
   <a href="https://wa.me/5564999840431?text=Olá,%20vim%20pelo%20github.%20Gostaria%20de%20bater%20um%20papo%20contigo." alt="WhatsApp" target="_blank">
     <img src="./images/buttons/whatsapp.svg" alt="Whatsapp">
   </a>
+  <br>
   <a href="https://www.instagram.com/rhogger._.fs/" alt="Instagram" target="_blank">
     <img src="./images/buttons/instagram.svg" alt="Instagram">
   </a>
