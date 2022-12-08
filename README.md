@@ -16,7 +16,7 @@
   </tr>
 </table> -->
 <ul align="left">
-    <li>🤩️ Gosto muito de Tecnologia, me impressiono cada vez mais vendo novas tecnologias sendo implementadas no nosso dia a dia; Animes, como por exemplo: One Piece, Death Note, Boku no Hero, Tokyo Revengers, Attack on Titan, Chainsaw Man, entre vários outros; Jogos como Valorant, Skyrim e Stardew Valley, Eventos, amo participar de eventos, já fui em 2 DevFest's, 1 Campus Party e um Startup Weekend, pretendo participar de mais e mais eventos; e não pdoeria faltar a Resenha com os amigos kkk 🤩️</li><br>
+    <li>🤩️ Gosto muito de Tecnologia, Animes, Jogos, Eventos; 🤩️</li><br>
     <li>🚀 Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor FullStack, penso em um dia morar em outros países, viajar o mundo e ser um ótimo profissional 🚀</li><br>
     <li>💻 Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a> aprendendo <b>C</b> e <b>Java</b>. De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b> e <b>CSS</b>, com uma didática excelente, ainda irei aprender <b>JavaScript</b>, <b>Node</b>, <b>React</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
     <li>🔮 Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo. 🔮</li><br>
