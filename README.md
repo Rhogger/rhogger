@@ -24,7 +24,7 @@
 <br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="360px" alt="programming" src="./images/Techs.gif"/>
+<img align="left" height="295px" width="355px" alt="programming" src="./images/Techs.gif"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
