@@ -149,12 +149,12 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <details open>
 <summary><b>Relatórios</b></summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rhogger&theme=tokyo-night&hide_border=true&cache_seconds=0">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rhogger&theme=modern-lilac&hide_border=true&cache_seconds=0">
 <br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhogger&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img align="left" height="600px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhogger&langs_count=8&theme=omni&hide_border=false&cache_seconds=0">
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=tokyonight&hide_border=true&cache_seconds=0">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=tokyonight&hide_border=true&cache_seconds=0">
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=omni&hide_border=false&cache_seconds=0">
+<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=omni&hide_border=false&cache_seconds=0">
 </div>
   
  <br>
