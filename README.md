@@ -67,14 +67,6 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br>
-      <sub>
-        <b>
-          <pre>C</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
   
   <tr>
@@ -83,14 +75,6 @@
       <sub>
         <b>
           <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="65px" alt="Eclipse icon"/><br>
-      <sub>
-        <b>
-          <pre>Eclipse</pre>
         </b>
       </sub>
     </td>
