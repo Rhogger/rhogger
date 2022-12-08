@@ -194,14 +194,11 @@
 <img align="left" width="220px" height="180px" src="./images/Contacts.gif" alt="woman in balcony">
 <br><br>
 <p align="center">
-  <a href="" alt="currículo">
-    <img src="./images/buttons/curriculo.svg" alt="currículo">
-  </a>
   <a href="mailto:rhoggerrv@gmail.com" alt="gmail">
     <img src="./images/buttons/email.svg" target="_blank">
   </a> 
-  <a href="https://www.linkedin.com/in/rhogger-freitas-699594214/" alt="Linkedin" target="_blank">
-    <img src="./images/buttons/linkedin.svg" alt="linkedin">
+  <a href="https://www.linkedin.com/in/rhogger-freitas-699594214/" alt="Linkedin">
+    <img src="./images/buttons/linkedin.svg" alt="linkedin" target="_blank">
   </a>
   <a href="https://wa.me/5564999840431?text=Olá,%20vim%20pelo%20github.%20Gostaria%20de%20bater%20um%20papo%20contigo." alt="WhatsApp" target="_blank">
     <img src="./images/buttons/whatsapp.svg" alt="Whatsapp">
