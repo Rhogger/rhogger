@@ -132,7 +132,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <h4 align="center">
   
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://github.com/rhogger)](https://contate.me/RhoggerFS)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/rhogger)](https://www.linkedin.com/in/rhogger-freitas-699594214/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://github.com/rhogger)](https://www.linkedin.com/in/rhogger-fs/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&target=blank&link=https://github.com/rhogger)](https://www.instagram.com/rhogger._.fs/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&link=https://github.com/rhogger)](mailto:rhoggerrv@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://github.com/rhogger)](https://discord.com/channels/@me/968511537520214037)
