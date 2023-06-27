@@ -30,7 +30,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <!-- TECNLOGIAS -->
 
 <h2 align="center"><b>Tecnologias</b></h2>
-<img align="left" height="289px" width="354px" alt="programming" src="./images/Techs.gif"/>
+<img align="left" height="289px" width="346px" alt="programming" src="./images/Techs.gif"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
