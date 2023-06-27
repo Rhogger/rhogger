@@ -17,10 +17,10 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <img align="right" src="./images/About.gif" width="313px" height="313px" alt="Who are you">
 
 <ul align="left">
-    <li> Gosto muito de Tecnologia, Animes, Jogos, Eventos;</li><br>
-    <li> Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor FullStack, penso em um dia morar em outros países, viajar o mundo e ser um ótimo profissional;</li><br>
-    <li>Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a> aprendendo <b>C</b> e <b>Java</b>. De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b> e <b>CSS</b>, com uma didática excelente, ainda irei aprender <b>JavaScript</b>, <b>Node</b>, <b>React</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
-    <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na escada do sucesso, degrau por degrau, no meu tempo.</li><br>
+    <li> Gosto muito de tecnologia, jogos e eventos relacionado a tecnologia;</li><br>
+    <li> Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor FullStack;</li><br>
+    <li>Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a> aprendendo <b>Angular</b> e <b>TypeScript</b>. De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>, com uma didática excelente, ainda irei aprender <b>React</b>, <b>Node</b>, <b>Next</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
+    <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na vida, degrau por degrau, no meu tempo.</li><br>
 </ul>
 
 <br>
@@ -58,18 +58,18 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="SQL icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="SQL icon"/><br>
       <sub>
         <b>
-          <pre>SQL</pre>
+          <pre>TypeScript</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Java icon"/><br>
       <sub>
         <b>
-          <pre>Java</pre>
+          <pre>Angular</pre>
         </b>
       </sub>
     </td>
@@ -77,18 +77,18 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
   
   <tr>
   <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="SQL icon"/><br>
       <sub>
         <b>
-          <pre>VSCode</pre>
+          <pre>Node</pre>
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="SQL icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;GitHub&emsp;</pre>
+          <pre>SQL</pre>
         </b>
       </sub>
     </td>
@@ -149,8 +149,8 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 
 <br>
 
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rhogger&theme=modern-lilac&hide_border=true&cache_seconds=0">
-<br><br>
+<!-- <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rhogger&theme=modern-lilac&hide_border=true&cache_seconds=0"> 
+<br><br> -->
 <img align="left" height="305px" width="290px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rhogger&langs_count=8&theme=omni&hide_border=false&cache_seconds=0">
 <div align="right">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=omni&hide_border=false&cache_seconds=0">
