@@ -45,7 +45,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
       <sub>
         <b>
-          <pre>&ensp;CSS&ensp;</pre>
+          <pre>CSS</pre>
         </b>
       </sub>
     </td>
@@ -96,7 +96,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Git&emsp;</pre>
+          <pre>Git</pre>
         </b>
       </sub>
     </td>    
