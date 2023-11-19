@@ -254,22 +254,26 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <!-- FIM CONTATE-ME -->
 
 <!-- RELATÓRIOS -->
-  
+
 <br><br><br>
 
 <h2 align="center"> <b>Relatórios</b></h2>
 
 <br>
 
-<!-- <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Rhogger&theme=modern-lilac&hide_border=true&cache_seconds=0"> 
-<br><br> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=donut-vertical&langs_count=10&theme=omni&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-<div align="right">
-<img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=omni&hide_border=false&cache_seconds=0">
-<img height="203px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=omni&hide_border=false&cache_seconds=0">
+<div align="center">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogger&layout=donut&langs_count=6&theme=omni&hide_border=false"><br>
+</div>
+
+<div align="center">
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=omni&hide_border=false&cache_seconds=0"><br>
+</div>
+
+<div align="center">
+<img width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=omni&hide_border=false&cache_seconds=0">
 </div>
   
- <br>
+ <br><hr>
 
 <div align="center">
     
