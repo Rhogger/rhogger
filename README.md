@@ -151,6 +151,14 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="" width="65px" alt=""/><br>
+      <sub>
+        <b>
+          <pre></pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 
   <tr>
@@ -185,7 +193,15 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
           <pre>Postman</pre>
         </b>
       </sub>
-    </td> 
+    </td>
+    <td align="center">
+      <img src="" width="65px" alt=""/><br>
+      <sub>
+        <b>
+          <pre></pre>
+        </b>
+      </sub>
+    </td>
 </tr>
 <tr>
     <td align="center">
@@ -220,6 +236,14 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td> 
+    <td align="center">
+      <img src="" width="65px" alt=""/><br>
+      <sub>
+        <b>
+          <pre></pre>
+        </b>
+      </sub>
+    </td>
 </tr>
 <tr>
     <td align="center">
