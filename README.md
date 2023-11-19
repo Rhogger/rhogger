@@ -31,7 +31,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 
 <h2 align="center"><b>Tecnologias</b></h2>
 <img align="left" height="289px" width="346px" alt="programming" src="./images/Techs.gif"/>
-<table align="right" height="300px">
+<table align="right" width="500px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
