@@ -97,17 +97,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
-      <sub>
-        <b>
-          <pre>Angular</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-
-  <tr> 
+<tr> 
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="SQL icon"/><br>
       <sub>
@@ -121,14 +111,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       <sub>
         <b>
           <pre>Java</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="Jquery icon"/><br>
-      <sub>
-        <b>
-          <pre>Jquery</pre>
         </b>
       </sub>
     </td>
@@ -184,6 +166,22 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 
   <tr>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
+      <sub>
+        <b>
+          <pre>Angular</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="Jquery icon"/><br>
+      <sub>
+        <b>
+          <pre>Jquery</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
       <sub>
         <b>
@@ -200,14 +198,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>    
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
-      <sub>
-        <b>
-          <pre>Github</pre>
-        </b>
-      </sub>
-    </td>  
-    <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br>
       <sub>
         <b>
@@ -215,22 +205,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br>
-      <sub>
-        <b>
-          <pre>VSCode</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="65px" alt="Eclipse icon"/><br>
-      <sub>
-        <b>
-          <pre>Eclipse</pre>
-        </b>
-      </sub>
-    </td>    
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=gherkin" width="65px" alt="Gherkin icon"/><br>
       <sub>
