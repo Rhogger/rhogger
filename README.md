@@ -163,7 +163,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
@@ -232,7 +231,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 </tr>    
 </table> 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 
 <!-- FIM TECNOLOGIAS -->
 
