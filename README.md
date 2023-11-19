@@ -305,7 +305,11 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 </div>
   
  <br>
- 
-![Snake animation](https://github.com/Rhogger/rhogger/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+    
+![Snake animation](https://github.com/Rhogger/rhogger/blob/output/github-snake-dark.svg)
+
+</div>
   
 <!-- FIM RELATÓRIOS -->
