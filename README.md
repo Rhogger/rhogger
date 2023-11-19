@@ -50,6 +50,14 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="TailwindCSS icon"/><br>
+      <sub>
+        <b>
+          <pre>Tailwind</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
         <b>
@@ -58,25 +66,41 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="SQL icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScript icon"/><br>
       <sub>
         <b>
           <pre>TypeScript</pre>
         </b>
       </sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Java icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
       <sub>
         <b>
           <pre>Angular</pre>
         </b>
       </sub>
     </td>
-  </tr>
-  
-  <tr>
-  <td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="SQL icon"/><br>
       <sub>
         <b>
@@ -85,10 +109,56 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="SQL icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
       <sub>
         <b>
-          <pre>SQL</pre>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=supabase" width="65px" alt="Supabase icon"/><br>
+      <sub>
+        <b>
+          <pre>Supabase</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis icon"/><br>
+      <sub>
+        <b>
+          <pre>Redis</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="Prisma icon"/><br>
+      <sub>
+        <b>
+          <pre>Prisma</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
+      <sub>
+        <b>
+          <pre>MySQL</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
         </b>
       </sub>
     </td>
@@ -100,19 +170,96 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>    
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
       <sub>
         <b>
-          <pre>Figma</pre>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>  
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br>
+      <sub>
+        <b>
+          <pre>Postman</pre>
+        </b>
+      </sub>
+    </td> 
+</tr>
+<tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br>
+      <sub>
+        <b>
+          <pre>Dart</pre>
         </b>
       </sub>
     </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=flutter" width="65px" alt="Flutter icon"/><br>
+      <sub>
+        <b>
+          <pre>Flutter</pre>
+        </b>
+      </sub>
+    </td>    
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>  
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="Jquery icon"/><br>
+      <sub>
+        <b>
+          <pre>Jquery</pre>
+        </b>
+      </sub>
+    </td> 
+</tr>
+<tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=eclipse" width="65px" alt="Eclipse icon"/><br>
+      <sub>
+        <b>
+          <pre>Eclipse</pre>
+        </b>
+      </sub>
+    </td>    
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=gherkin" width="65px" alt="Gherkin icon"/><br>
+      <sub>
+        <b>
+          <pre>Gherkin</pre>
+        </b>
+      </sub>
+    </td>  
+    </td> 
     <td align="center">
       <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
       <sub>
         <b>
           <pre>Markdown</pre>
+        </b>
+      </sub>
+    </td> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel icon"/><br>
+      <sub>
+        <b>
+          <pre>Vercel</pre>
         </b>
       </sub>
     </td> 
