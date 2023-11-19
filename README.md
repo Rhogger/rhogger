@@ -30,8 +30,8 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <!-- TECNLOGIAS -->
 
 <h2 align="center"><b>Tecnologias</b></h2>
-<img align="left" height="289px" width="346px" alt="programming" src="./images/Techs.gif"/>
-<table align="right" width="500px">
+
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
@@ -57,6 +57,14 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>  
     <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
@@ -73,9 +81,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
       <sub>
@@ -100,6 +105,9 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
+  </tr>
+
+  <tr> 
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="SQL icon"/><br>
       <sub>
@@ -116,9 +124,14 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-  </tr>
-  
-  <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="Jquery icon"/><br>
+      <sub>
+        <b>
+          <pre>Jquery</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=supabase" width="65px" alt="Supabase icon"/><br>
       <sub>
@@ -152,10 +165,18 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
-      <img src="" width="65px" alt=""/><br>
+      <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br>
       <sub>
         <b>
-          <pre></pre>
+          <pre>Dart</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=flutter" width="65px" alt="Flutter icon"/><br>
+      <sub>
+        <b>
+          <pre>Flutter</pre>
         </b>
       </sub>
     </td>
@@ -194,59 +215,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="" width="65px" alt=""/><br>
-      <sub>
-        <b>
-          <pre></pre>
-        </b>
-      </sub>
-    </td>
-</tr>
-<tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br>
-      <sub>
-        <b>
-          <pre>Dart</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=flutter" width="65px" alt="Flutter icon"/><br>
-      <sub>
-        <b>
-          <pre>Flutter</pre>
-        </b>
-      </sub>
-    </td>    
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>  
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="Jquery icon"/><br>
-      <sub>
-        <b>
-          <pre>Jquery</pre>
-        </b>
-      </sub>
-    </td> 
-    <td align="center">
-      <img src="" width="65px" alt=""/><br>
-      <sub>
-        <b>
-          <pre></pre>
-        </b>
-      </sub>
-    </td>
-</tr>
-<tr>
-    <td align="center">
+   <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="VSCode icon"/><br>
       <sub>
         <b>
@@ -270,7 +239,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>  
-    </td> 
     <td align="center">
       <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
       <sub>
@@ -287,7 +255,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td> 
-  </tr>
+</tr>    
 </table> 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
