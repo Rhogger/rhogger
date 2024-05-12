@@ -1,7 +1,7 @@
 <!-- INTRO -->
 
 <img align="left" width="100%" alt="intro gif" src="./images/Intro.gif"/>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h3 align="center">  
 <br><hr>
@@ -17,10 +17,19 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <img align="right" src="./images/About.gif" width="313px" height="313px" alt="Who are you">
 
 <ul align="left">
-    <li> Gosto muito de tecnologia, jogos e eventos relacionado a tecnologia;</li><br>
-    <li> Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor FullStack;</li><br>
-    <li>Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a> aprendendo <b>Angular</b> e <b>TypeScript</b>. De contra-mão, adquiri o curso da <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>, com uma didática excelente, ainda irei aprender <b>React</b>, <b>Node</b>, <b>Next</b> e complementar meus conhecimentos em <b>SQL</b>, <b>Git</b> e <b>Github</b>. 💻</li><br>
-    <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>. Enquanto isso, irei dar meu melhor para subir na vida, degrau por degrau, no meu tempo.</li><br>
+    <li>
+    Gosto muito de tecnologia, jogos e eventos relacionado a tecnologia;
+    </li>
+    <br>
+    <li>
+    Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor Backend .NET e ASP.NET Core;
+    </li>
+    <br>
+    <li>
+    Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a>. De contra-mão, estudo pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante sobre <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Node</b>, <b>SQL</b>, <b>Git</b> e <b>Github</b>.
+    </li>
+    <br>
+    <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>.</li><br>
 </ul>
 
 <br>
@@ -57,14 +66,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>  
     <td align="center">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
       <sub>
@@ -81,15 +82,7 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>Vite</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
+     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
       <sub>
         <b>
@@ -97,7 +90,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-<tr> 
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="SQL icon"/><br>
       <sub>
@@ -107,10 +99,35 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
       <sub>
         <b>
-          <pre>Java</pre>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+  <tr> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="C# icon"/><br>
+      <sub>
+        <b>
+          <pre>C#</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=dotnet" width="65px" alt="dotnet icon"/><br>
+      <sub>
+        <b>
+          <pre>dotnet</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="./images/icons/Xunit.svg" width="65px" alt="xUnit icon"/><br>
+      <sub>
+        <b>
+          <pre>xUnit</pre>
         </b>
       </sub>
     </td>
@@ -147,6 +164,98 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td>
     <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="Postgres icon"/><br>
+      <sub>
+        <b>
+          <pre>Postgres</pre>
+        </b>
+      </sub>
+    </td>
+  <tr>
+  <tr> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="Jest icon"/><br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="Express icon"/><br>
+      <sub>
+        <b>
+          <pre>Express</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="65px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="FastApi icon"/><br>
+      <sub>
+        <b>
+          <pre>FastApi</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
+      <sub>
+        <b>
+          <pre>Flask</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="65px" alt="Anaconda icon"/><br>
+      <sub>
+        <b>
+          <pre>Anaconda</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65px" alt="Tensorflow icon"/><br>
+      <sub>
+        <b>
+          <pre>Tensorflow</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="65px" alt="Scikit-Learn icon"/><br>
+      <sub>
+        <b>
+          <pre>sklearn</pre>
+        </b>
+      </sub>
+    </td>
+  <tr>
+  </tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
+      <sub>
+        <b>
+          <pre>Angular</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=dart" width="65px" alt="Dart icon"/><br>
       <sub>
         <b>
@@ -162,40 +271,6 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
         </b>
       </sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
-      <sub>
-        <b>
-          <pre>Angular</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=jquery" width="65px" alt="Jquery icon"/><br>
-      <sub>
-        <b>
-          <pre>Jquery</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
-      <sub>
-        <b>
-          <pre>Figma</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>Git</pre>
-        </b>
-      </sub>
-    </td>    
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br>
       <sub>
@@ -221,13 +296,79 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
       </sub>
     </td> 
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel icon"/><br>
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
       <sub>
         <b>
-          <pre>Vercel</pre>
+          <pre>Figma</pre>
         </b>
       </sub>
-    </td> 
+    </td>
+</tr>    
+<tr>    
+  <td align="center" width="100px;">
+    <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+    <sub>
+      <b>
+        <pre>Git</pre>
+      </b>
+    </sub>
+  </td>    
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
+    <sub>
+      <b>
+        <pre>Github</pre>
+      </b>
+    </sub>
+  </td> 
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="65px" alt="Github Actions icon"/><br>
+    <sub>
+      <b>
+        <pre>Actions</pre>
+      </b>
+    </sub>
+  </td> 
+  <td align="center" width="100px;">
+    <img src="https://skillicons.dev/icons?i=netlify" width="65px" alt="Netlify icon"/><br>
+    <sub>
+      <b>
+        <pre>Netlify</pre>
+      </b>
+    </sub>
+  </td>    
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel icon"/><br>
+    <sub>
+      <b>
+        <pre>Vercel</pre>
+      </b>
+    </sub>
+  </td> 
+  <td align="center" width="100px;">
+    <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Azure icon"/><br>
+    <sub>
+      <b>
+        <pre>Azure</pre>
+      </b>
+    </sub>
+  </td>    
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Bash icon"/><br>
+    <sub>
+      <b>
+        <pre>Bash</pre>
+      </b>
+    </sub>
+  </td> 
+  <td align="center" width="100px;">
+    <img src="https://skillicons.dev/icons?i=npm" width="65px" alt="NPM icon"/><br>
+    <sub>
+      <b>
+        <pre>NPM</pre>
+      </b>
+    </sub>
+  </td>    
 </tr>    
 </table> 
 
