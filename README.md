@@ -22,11 +22,11 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
     </li>
     <br>
     <li>
-    Estudando e aprimorando as skills para em um futuro próximo me tornar um Desenvolvedor Backend .NET e ASP.NET Core;
+    Sempre estudando e aprimorando as skills para me destacar no mercado;
     </li>
     <br>
     <li>
-    Curso Engenharia de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a>. De contra-mão, estudo pela <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> e venho aprendendo bastante sobre <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>React</b>, <b>Node</b>, <b>SQL</b>, <b>Git</b> e <b>Github</b>.
+    Sou graduado em Engenharia de Software e trabalho como Engenheiro de Software na <a href="https://www.unirv.edu.br/index.php" target="_blank">UniRV</a>.
     </li>
     <br>
     <li>Meu objetivo mais distante seria um dia trabalhar em uma </b>Big Tech</b> como a <b>Microsoft</b> ou <b>Google</b>.</li><br>
