@@ -14,9 +14,15 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 <h2 align="center"><b>Sobre mim</b></h2>
 <img align="right" src="./images/About.gif" width="313px" height="313px" alt="Who are you">
 
-Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando em Data Science e Machine Learning. Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na área de análise de dados, machine learning e devops.
+Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando em Data Science e Machine Learning. 
 
-<br>
+<br><br>
+
+Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na área de análise de dados, machine learning e devops.
+</div>
+
+<br><br><br>
+<br><br><br>
 
 <!-- TECNLOGIAS -->
 
@@ -99,6 +105,7 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -140,6 +147,7 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
+    <td align="center"></td>
   </tr>   
     
   <tr>
@@ -168,10 +176,10 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
       </sub>
     </td>
     <td align="center">
-      <img src="./images/icons/Xunit.svg" width="65px" alt="xUnit icon"/><br>
+      <img src="./images/icons/Blazor.svg" width="65px" alt="Blazor icon"/><br>
       <sub>
         <b>
-          <pre>xUnit</pre>
+          <pre>Blazor</pre>
         </b>
       </sub>
     </td>
@@ -210,6 +218,8 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>    
 </table> 
 
@@ -303,6 +313,7 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
+    <td align="center"></td>
   </tr>
   
   <tr>
@@ -314,6 +325,8 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr> 
   
   <tr>    
@@ -325,6 +338,8 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
