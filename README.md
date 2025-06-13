@@ -105,7 +105,14 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
         </b>
       </sub>
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="./images/icons/Blazor.svg" width="65px" alt="Blazor icon"/><br>
+      <sub>
+        <b>
+          <pre>Blazor</pre>
+        </b>
+      </sub>
+    </td>
   </tr>
 </table>
 
@@ -132,7 +139,7 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=fastify" width="65px" alt="Fastify icon"/><br>
+      <img src="./images/icons/Fastify.svg" width="65px" alt="Fastify icon"/><br>
       <sub>
         <b>
           <pre>Fastify</pre>
@@ -168,7 +175,7 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=aspnet" width="65px" alt="ASP.NET icon"/><br>
+      <img src="./images/icons/ASP.NET.svg" width="65px" alt="ASP.NET icon"/><br>
       <sub>
         <b>
           <pre>ASP.NET</pre>
@@ -176,18 +183,18 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
       </sub>
     </td>
     <td align="center">
-      <img src="./images/icons/Blazor.svg" width="65px" alt="Blazor icon"/><br>
+      <img src="./images/icons/MS Test.svg" width="65px" alt="MS Test icon"/><br>
       <sub>
         <b>
-          <pre>Blazor</pre>
+          <pre>MS Test</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="./images/icons/MSTest.svg" width="65px" alt="MSTest icon"/><br>
+      <img src="./images/icons/Xunit.svg" width="65px" alt="xUnit icon"/><br>
       <sub>
         <b>
-          <pre>MSTest</pre>
+          <pre>xUnit</pre>
         </b>
       </sub>
     </td>
@@ -254,10 +261,51 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=neo4j" width="65px" alt="Neo4J icon"/><br>
+      <img src="./images/icons/Neo4J.svg" width="65px" alt="Neo4J icon"/><br>
       <sub>
         <b>
           <pre>Neo4J</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br><br><br>
+
+<h2 align="center"><b>Tecnologias - Data Science & ML/DL</b></h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="./images/icons/Pandas.svg" width="65px" alt="Pandas icon"/><br>
+      <sub>
+        <b>
+          <pre>Pandas</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="65px" alt="Tensorflow icon"/><br>
+      <sub>
+        <b>
+          <pre>Tensorflow</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="65px" alt="Scikit-Learn icon"/><br>
+      <sub>
+        <b>
+          <pre>sklearn</pre>
         </b>
       </sub>
     </td>
