@@ -102,7 +102,7 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
   </tr>
 </table>
 
-<br><br><br><hr>
+<br><br><br>
 
 <h2 align="center"><b>Tecnologias - Back-end</b></h2>
   
@@ -210,10 +210,125 @@ Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando
         </b>
       </sub>
     </td>
-</tr>    
+  </tr>    
 </table> 
 
-<br><br>
+<br><br><br>
+
+<h2 align="center"><b>Tecnologias - Databases</b></h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redis" width="65px" alt="Redis icon"/><br>
+      <sub>
+        <b>
+          <pre>Redis</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySQL icon"/><br>
+      <sub>
+        <b>
+          <pre>MySQL</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="Postgres icon"/><br>
+      <sub>
+        <b>
+          <pre>Postgres</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=neo4j" width="65px" alt="Neo4J icon"/><br>
+      <sub>
+        <b>
+          <pre>Neo4J</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br><br><br>
+
+<h2 align="center"><b>Tecnologias - Platforms & Tools</b></h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>Git</pre>
+        </b>
+      </sub>
+    </td>    
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td> 
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="65px" alt="Github Actions icon"/><br>
+      <sub>
+        <b>
+          <pre>Actions</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  
+  <tr>    
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=azure" width="65px" alt="Azure icon"/><br>
+      <sub>
+        <b>
+          <pre>Azure</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=gcp" width="65px" alt="Google Cloud Platform icon"/><br>
+      <sub>
+        <b>
+          <pre>GCP</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br>
+      <sub>
+        <b>
+          <pre>Postman</pre>
+        </b>
+      </sub>
+    </td>
+  </tr> 
+  
+  <tr>    
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <sub>
+        <b>
+          <pre>Figma</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<br><br><br>
 
 <!-- CONTATE-ME -->
 
