@@ -286,6 +286,14 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
       </sub>
     </td>
     <td align="center">
+      <img src="./images/icons/Jupyter.svg" width="65px" alt="Pandas icon"/><br>
+      <sub>
+        <b>
+          <pre>Jupyter</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
       <img src="./images/icons/Pandas.svg" width="65px" alt="Pandas icon"/><br>
       <sub>
         <b>
@@ -426,13 +434,3 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
 <div align="center">
 <img width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=omni&hide_border=false&cache_seconds=0">
 </div>
-  
- <br><hr>
-
-<div align="center">
-    
-![Snake animation](https://github.com/Rhogger/rhogger/blob/output/github-snake-dark.svg)
-
-</div>
-  
-<!-- FIM RELATÓRIOS -->
