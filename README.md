@@ -16,14 +16,12 @@ Oi, eu sou o Rhogger, acompanhe minha evolução pelo GitHub! 😃
 
 Sou desenvolvedor fullstack, graduado em Engenharia de Software e pós graduando em Data Science e Machine Learning. 
 
-<br><br>
+<br>
 
 Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na área de análise de dados, machine learning e devops.
 </div>
 
-<br><br><br>
-<br><br><br>
-
+<br><br><br><br><br><br><br><br>
 <!-- TECNLOGIAS -->
 
 <h2 align="center"><b>Tecnologias - Front-end</b></h2>
