@@ -425,9 +425,5 @@ Atualmente trabalhando com Vue, TypeScript, Python e Django e interesse em na á
 </div>
 
 <div align="center">
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rhogger&theme=omni&hide_border=false&cache_seconds=0"><br>
-</div>
-
-<div align="center">
 <img width="500px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rhogger&show_icons=true&custom_title=Rhogger's%20Github%20Stats&theme=omni&hide_border=false&cache_seconds=0">
 </div>
